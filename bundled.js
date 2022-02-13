@@ -6,10 +6,3 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-/******/ (() => { // webpackBootstrap
-/*!***********************************!*\
-  !*** ./app/assets/scripts/App.js ***!
-  \***********************************/
-eval("alert(\"The sky is blue\")\n\n//# sourceURL=webpack://travel-site/./app/assets/scripts/App.js?");
-/******/ })()
-;
